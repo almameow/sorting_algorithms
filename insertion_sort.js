@@ -1,6 +1,6 @@
 <script type="text/javascript">
 var x = [];
-for(k=0;k<100;k++)
+for(k=0;k<10000;k++)
 {
 	x.push(Math.floor(Math.random()*10000));
 }
